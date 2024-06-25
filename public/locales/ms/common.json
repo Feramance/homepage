@@ -250,7 +250,7 @@
     "lidarr": {
         "wanted": "Mahu",
         "queued": "Dibaris Gilir",
-        "artists": "Artists"
+        "artists": "Artis"
     },
     "readarr": {
         "wanted": "Mahu",
@@ -888,5 +888,10 @@
         "auth": "With Auth",
         "outdated": "Outdated",
         "banned": "Banned"
+    },
+    "myspeed": {
+        "ping": "Ping",
+        "download": "Muat turun",
+        "upload": "Muat naik"
     }
 }
