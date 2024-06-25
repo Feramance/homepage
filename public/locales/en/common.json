@@ -844,6 +844,11 @@
         "issues": "Issues",
         "pulls": "Pull Requests"
     },
+    "github": {
+        "issues": "Issues",
+        "pulls": "Pull Requests",
+        "stars": "Stars"
+    },
     "stash": {
         "scenes": "Scenes",
         "scenesPlayed": "Scenes Played",
